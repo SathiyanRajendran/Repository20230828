@@ -1,4 +1,4 @@
 How are you
  I am Sathiyan
  I am a Software developer
- I am interest in developing web applications.
+ I am interest in developing dot net core web applications.
